@@ -62,3 +62,4 @@ Below are some helpful extensions to enhance your VSCode experience:
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): Improves comment readability with colors.
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion): Auto-completes CSS classes in HTML files.
 - [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview): Provides image previews in the editor gutter.
+- [Live Preview](https://marketplace.visualstudio.com/items/?itemName=ms-vscode.live-server):Hosts a local server in your workspace for you to preview your webpages on.
