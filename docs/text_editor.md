@@ -61,4 +61,4 @@ Below are some helpful extensions to enhance your VSCode experience:
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker): Spelling checker for source code.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): Improves comment readability with colors.
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion): Auto-completes CSS classes in HTML files.
-- [Gutter Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview): Provides image previews in the editor gutter.
+- [Image Preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview): Provides image previews in the editor gutter.
